@@ -1,3 +1,3 @@
 # personal_journal
 
-A new Flutter project.
+Tugas Mobile Programing (NIM GANJIL)
