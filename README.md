@@ -1,3 +1,3 @@
 # personal_journal
 
-Tugas Mobile Programing (NIM GANJIL)
+Tugas UTS Mobile Programing (NIM GANJIL)
