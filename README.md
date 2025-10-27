@@ -71,6 +71,10 @@ Fitur tambahan:
   <em>Gambar 4. Fitur Date/Time Picker</em>
 </p>
 
+<p align="center">
+  <img src="assets/images/editkategori.jpg" width="300"><br>
+  <em>Gambar 5. Fitur Edit Kategori
+</p>
 ---
 
 #### 📖 Membaca Catatan
